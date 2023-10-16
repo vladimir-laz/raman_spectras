@@ -1,0 +1,160 @@
+Metrics for 1 fold, test:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        68
+           2       1.00      1.00      1.00        10
+
+    accuracy                           1.00        78
+   macro avg       1.00      1.00      1.00        78
+weighted avg       1.00      1.00      1.00        78
+
+
+Confusion matrix:
+[[68  0]
+ [ 0 10]]
+
+
+Metrics for 1 fold, train:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       272
+           2       1.00      1.00      1.00        36
+
+    accuracy                           1.00       308
+   macro avg       1.00      1.00      1.00       308
+weighted avg       1.00      1.00      1.00       308
+
+
+Confusion matrix:
+[[272   0]
+ [  0  36]]
+
+
+Metrics for 2 fold, test:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        68
+           2       1.00      1.00      1.00         9
+
+    accuracy                           1.00        77
+   macro avg       1.00      1.00      1.00        77
+weighted avg       1.00      1.00      1.00        77
+
+
+Confusion matrix:
+[[68  0]
+ [ 0  9]]
+
+
+Metrics for 2 fold, train:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       272
+           2       1.00      1.00      1.00        37
+
+    accuracy                           1.00       309
+   macro avg       1.00      1.00      1.00       309
+weighted avg       1.00      1.00      1.00       309
+
+
+Confusion matrix:
+[[272   0]
+ [  0  37]]
+
+
+Metrics for 3 fold, test:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        68
+           2       1.00      1.00      1.00         9
+
+    accuracy                           1.00        77
+   macro avg       1.00      1.00      1.00        77
+weighted avg       1.00      1.00      1.00        77
+
+
+Confusion matrix:
+[[68  0]
+ [ 0  9]]
+
+
+Metrics for 3 fold, train:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       272
+           2       1.00      1.00      1.00        37
+
+    accuracy                           1.00       309
+   macro avg       1.00      1.00      1.00       309
+weighted avg       1.00      1.00      1.00       309
+
+
+Confusion matrix:
+[[272   0]
+ [  0  37]]
+
+
+Metrics for 4 fold, test:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        68
+           2       1.00      1.00      1.00         9
+
+    accuracy                           1.00        77
+   macro avg       1.00      1.00      1.00        77
+weighted avg       1.00      1.00      1.00        77
+
+
+Confusion matrix:
+[[68  0]
+ [ 0  9]]
+
+
+Metrics for 4 fold, train:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       272
+           2       1.00      1.00      1.00        37
+
+    accuracy                           1.00       309
+   macro avg       1.00      1.00      1.00       309
+weighted avg       1.00      1.00      1.00       309
+
+
+Confusion matrix:
+[[272   0]
+ [  0  37]]
+
+
+Metrics for 5 fold, test:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        68
+           2       1.00      1.00      1.00         9
+
+    accuracy                           1.00        77
+   macro avg       1.00      1.00      1.00        77
+weighted avg       1.00      1.00      1.00        77
+
+
+Confusion matrix:
+[[68  0]
+ [ 0  9]]
+
+
+Metrics for 5 fold, train:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       272
+           2       1.00      1.00      1.00        37
+
+    accuracy                           1.00       309
+   macro avg       1.00      1.00      1.00       309
+weighted avg       1.00      1.00      1.00       309
+
+
+Confusion matrix:
+[[272   0]
+ [  0  37]]
+
+

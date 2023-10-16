@@ -1,0 +1,9 @@
+colsample_bytree: 0.4242049390546701
+gamma: 0.5146219245532427
+learning_rate: 0.03815178354598335
+max_depth: 10
+min_child_weight: 5
+n_estimators: 479
+reg_alpha: 0.49701281840035705
+reg_lambda: 0.3879599139883758
+subsample: 0.8268090102413439

@@ -1,0 +1,2 @@
+n_components: 10
+solver: svd
