@@ -1,0 +1,6 @@
+C: 9.283985352001372
+fit_intercept: true
+max_iter: 162
+penalty: l1
+solver: saga
+tol: 0.00898206368665022

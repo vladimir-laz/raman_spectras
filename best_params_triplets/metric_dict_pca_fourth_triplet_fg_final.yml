@@ -1,0 +1,126 @@
+2:
+  CatBoost: 1.0
+  LogisticRegression: 1.0
+  RandomForest: 1.0
+  SVM: 1.0
+  XGBoost: 1.0
+5:
+  CatBoost: 1.0
+  LogisticRegression: 1.0
+  RandomForest: 1.0
+  SVM: 1.0
+  XGBoost: 1.0
+10:
+  CatBoost: 1.0
+  LogisticRegression: 1.0
+  RandomForest: 1.0
+  SVM: 1.0
+  XGBoost: 1.0
+15:
+  CatBoost: 1.0
+  LogisticRegression: 1.0
+  RandomForest: 1.0
+  SVM: 1.0
+  XGBoost: 1.0
+20:
+  CatBoost: 1.0
+  LogisticRegression: 1.0
+  RandomForest: 1.0
+  SVM: 1.0
+  XGBoost: 1.0
+25:
+  CatBoost: 1.0
+  LogisticRegression: 1.0
+  RandomForest: 1.0
+  SVM: 1.0
+  XGBoost: 1.0
+30:
+  CatBoost: 1.0
+  LogisticRegression: 1.0
+  RandomForest: 1.0
+  SVM: 1.0
+  XGBoost: 1.0
+35:
+  CatBoost: 1.0
+  LogisticRegression: 1.0
+  RandomForest: 1.0
+  SVM: 1.0
+  XGBoost: 1.0
+40:
+  CatBoost: 1.0
+  LogisticRegression: 1.0
+  RandomForest: 1.0
+  SVM: 1.0
+  XGBoost: 1.0
+45:
+  CatBoost: 1.0
+  LogisticRegression: 1.0
+  RandomForest: 1.0
+  SVM: 1.0
+  XGBoost: 1.0
+50:
+  CatBoost: 1.0
+  LogisticRegression: 1.0
+  RandomForest: 1.0
+  SVM: 1.0
+  XGBoost: 1.0
+55:
+  CatBoost: 1.0
+  LogisticRegression: 1.0
+  RandomForest: 1.0
+  SVM: 1.0
+  XGBoost: 1.0
+60:
+  CatBoost: 1.0
+  LogisticRegression: 1.0
+  RandomForest: 1.0
+  SVM: 1.0
+  XGBoost: 1.0
+65:
+  CatBoost: 1.0
+  LogisticRegression: 1.0
+  RandomForest: 1.0
+  SVM: 1.0
+  XGBoost: 1.0
+70:
+  CatBoost: 1.0
+  LogisticRegression: 1.0
+  RandomForest: 1.0
+  SVM: 1.0
+  XGBoost: 1.0
+75:
+  CatBoost: 1.0
+  LogisticRegression: 1.0
+  RandomForest: 1.0
+  SVM: 1.0
+  XGBoost: 1.0
+80:
+  CatBoost: 1.0
+  LogisticRegression: 1.0
+  RandomForest: 1.0
+  SVM: 1.0
+  XGBoost: 1.0
+85:
+  CatBoost: 1.0
+  LogisticRegression: 1.0
+  RandomForest: 1.0
+  SVM: 1.0
+  XGBoost: 1.0
+90:
+  CatBoost: 1.0
+  LogisticRegression: 1.0
+  RandomForest: 1.0
+  SVM: 1.0
+  XGBoost: 1.0
+95:
+  CatBoost: 1.0
+  LogisticRegression: 1.0
+  RandomForest: 1.0
+  SVM: 1.0
+  XGBoost: 1.0
+100:
+  CatBoost: 1.0
+  LogisticRegression: 1.0
+  RandomForest: 1.0
+  SVM: 1.0
+  XGBoost: 1.0

@@ -1,0 +1,6 @@
+C: 5.488495570784249
+fit_intercept: true
+max_iter: 509
+penalty: l2
+solver: liblinear
+tol: 0.009705566038491079

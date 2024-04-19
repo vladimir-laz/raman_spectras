@@ -1,0 +1,5 @@
+criterion: gini
+max_depth: 6
+min_samples_leaf: 2
+min_samples_split: 5
+n_estimators: 672

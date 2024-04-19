@@ -1,0 +1,5 @@
+CatBoost: 1.0
+LogisticRegression: 1.0
+RandomForest: 1.0
+SVM: 1.0
+XGBoost: 1.0

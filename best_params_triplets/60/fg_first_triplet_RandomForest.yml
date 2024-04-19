@@ -1,0 +1,5 @@
+criterion: entropy
+max_depth: 2
+min_samples_leaf: 1
+min_samples_split: 4
+n_estimators: 299

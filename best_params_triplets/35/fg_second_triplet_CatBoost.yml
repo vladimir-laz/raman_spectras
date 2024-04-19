@@ -1,0 +1,5 @@
+bootstrap_type: Bayesian
+depth: 3
+iterations: 721
+l2_leaf_reg: 0.2837565634246738
+learning_rate: 0.06448814343694209
